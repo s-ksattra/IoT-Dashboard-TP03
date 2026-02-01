@@ -8,7 +8,7 @@ const db = new Client({
     user: 'postgres',
     host: 'localhost',
     database: 'iot_data',
-    password: '12345678',
+    password: 'your_password',
     port: 5432,
 });
 
